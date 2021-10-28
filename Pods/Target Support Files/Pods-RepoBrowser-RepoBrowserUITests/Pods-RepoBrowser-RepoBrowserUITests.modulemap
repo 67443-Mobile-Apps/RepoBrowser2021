@@ -1,0 +1,6 @@
+framework module Pods_RepoBrowser_RepoBrowserUITests {
+  umbrella header "Pods-RepoBrowser-RepoBrowserUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

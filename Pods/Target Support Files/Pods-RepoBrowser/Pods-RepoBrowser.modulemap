@@ -1,0 +1,6 @@
+framework module Pods_RepoBrowser {
+  umbrella header "Pods-RepoBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}
